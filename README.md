@@ -5,7 +5,7 @@
 
 ![Roberto GitHub stats](https://github-readme-stats.vercel.app/api?username=robertoalyssom&show_icons=true&theme=dracula)
 
-### Technologies i currently use
+### Technologies I currently use
 
 <div style="display: inline-block">
     <img style="align=center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
